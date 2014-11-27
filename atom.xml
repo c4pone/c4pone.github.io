@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://c4pone.github.io/atom.xml" rel="self"/>
-  <link href="http://c4pone.github.io/"/>
-  <updated>2014-11-27T16:13:26+11:00</updated>
-  <id>http://c4pone.github.io/</id>
+  <title><![CDATA[I am Florian Kirchner]]></title>
+  <link href="http://codebuster.de//atom.xml" rel="self"/>
+  <link href="http://codebuster.de//"/>
+  <updated>2014-11-27T22:09:23+11:00</updated>
+  <id>http://codebuster.de//</id>
   <author>
     <name><![CDATA[Florian Kirchner]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testwag]]></title>
+    <link href="http://codebuster.de//blog/2014/11/27/testwag/"/>
+    <updated>2014-11-27T22:00:05+11:00</updated>
+    <id>http://codebuster.de//blog/2014/11/27/testwag</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://codebuster.de//blog/2014/11/27/test/"/>
+    <updated>2014-11-27T21:59:59+11:00</updated>
+    <id>http://codebuster.de//blog/2014/11/27/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hell Yeah Everything Is Running]]></title>
+    <link href="http://codebuster.de//blog/2014/11/27/hell-yeah-everything-is-running/"/>
+    <updated>2014-11-27T20:47:25+11:00</updated>
+    <id>http://codebuster.de//blog/2014/11/27/hell-yeah-everything-is-running</id>
+    <content type="html"><![CDATA[<p>wajgfnajag</p>
+]]></content>
+  </entry>
   
 </feed>
