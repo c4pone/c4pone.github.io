@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
 
-Sitemap: http://codebuster.de//sitemap.xml 
+Sitemap: https://codebuster.de/sitemap.xml
